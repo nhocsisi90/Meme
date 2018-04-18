@@ -1,4 +1,4 @@
-# Meme
+# Meme Bible App
 
 The Meme App allows users to caption memes based on the most popular stock images that are currently in use. What this means is that a user no longer has to search for an existing meme to suit the situation; they can caption one themselves and share it!
 
